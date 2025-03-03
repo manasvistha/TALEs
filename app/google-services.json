@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "112338142800",
+    "project_id": "tales-c4dc3",
+    "storage_bucket": "tales-c4dc3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:112338142800:android:fc2c42225a0266dba23355",
+        "android_client_info": {
+          "package_name": "com.example.tales"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmccpN_NLfX9otoHraULd9jjG_sMZcsxQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
